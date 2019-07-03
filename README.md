@@ -2,6 +2,6 @@
 
 ## INTEGRANTES
 
-### Dwan FElipe Veloza Paez
+### Dwan Felipe Veloza Paez
 ### Ivan René Arevalo Venegas
 ### Lucas Blandón Pulido
